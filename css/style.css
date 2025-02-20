@@ -6,6 +6,6 @@ body{
   background: dodgerblue;
 }
 
-.mdl-layout-title{
+.mdl-layout__header{
   text-align: center!important;
 }

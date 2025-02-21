@@ -2,10 +2,11 @@
 * Created on: Feb 20 2025 
 * This file contains the CSS for index.html
 */
-body{
+body {
   background: dodgerblue;
 }
 
-.mdl-layout__header{
-  text-align: center!important;
+a {
+  background: black !important;
+  color: white !important;
 }

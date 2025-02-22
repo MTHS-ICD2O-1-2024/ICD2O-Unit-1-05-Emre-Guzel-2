@@ -2,6 +2,9 @@
 * Created on: Feb 20 2025 
 * This file contains the CSS for index.html
 */
+html {
+  font-size: 15px;
+}
 body {
   background: dodgerblue;
 }
